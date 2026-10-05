@@ -1,0 +1,5 @@
+Olive Leaf hex:#606C38 rgb:96, 108, 56
+Black Forest hex:#283618 rgb:40, 54, 24
+Cornsilk hex:#FEFAE0 rgb:254, 250, 224
+Sunlit Clay hex:#DDA15E rgb:221, 161, 94
+Copperwood hex:#BC6C25 rgb:188, 108, 37
